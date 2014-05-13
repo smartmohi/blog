@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Change | Mohankumar Swaminathan's personal blog]]></title>
+  <link href="http://blog.smartmohi.com/blog/categories/change/atom.xml" rel="self"/>
+  <link href="http://blog.smartmohi.com/"/>
+  <updated>2014-05-13T23:46:39+05:30</updated>
+  <id>http://blog.smartmohi.com/</id>
+  <author>
+    <name><![CDATA[Mohankumar Swaminathan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How I Wish to See Engineering College Practical Exams in India]]></title>
+    <link href="http://blog.smartmohi.com/2014/01/02/how-i-wish-to-see-engineering-college-practical-exams-in-india/"/>
+    <updated>2014-01-02T21:40:29+05:30</updated>
+    <id>http://blog.smartmohi.com/2014/01/02/how-i-wish-to-see-engineering-college-practical-exams-in-india</id>
+    <content type="html"><![CDATA[<p><img src="http://farm3.staticflickr.com/2689/4466482623_6aea29d90a_b.jpg" alt="Practical Exam in Colleges" /></p>
+
+<blockquote><p><strong>Mind voice</strong>: Let this blog post not be my confession (college days)</p>
+
+<p><strong>Me</strong>: No worry! This is different.</p></blockquote>
+
+<p>Every engineering student has a prayer to get the easiest program like <a href="http://en.wikipedia.org/wiki/Fibonacci_number" title="Fibonacci number">Fibonacci series</a> in their practical exam. I too had!</p>
+
+<p>When I sit in fresher interview panel i wish to see their <a href="http://resume.github.io/" title="Github Resume">github</a> contribution and blog rather than their well drafted resume.</p>
+
+<h2>Why don&rsquo;t the evaluation methodology of practical exams improve?</h2>
+
+<blockquote><p><strong>Mind voice</strong>: First say what is the methodology you wish to propose? We will let you know whether it will improve or not.</p></blockquote>
+
+<p>I hate the concept of 3 hours exam to evaluate your practical skill. Instead of wasting time in reinventing the wheel and vomiting the same code on practical exam, students can contribute to open source community.</p>
+
+<blockquote><p><strong>Mind voice</strong>: Sounds complicated man! Explain in simple English.</p></blockquote>
+
+<!-- more -->
+
+
+<p><strong>Consider the following</strong></p>
+
+<ul>
+<li>Students have 6 months for one semester, they have approximately 2 class every week for 5 months. (3 hrs * 2 classes * 4 weeks * 5 months = 120 hours)</li>
+<li>There is a huge gap between industry need and academic curriculum</li>
+<li>Github have more than <a href="https://github.com/blog/1724-10-million-repositories" title="Github 2013">10 million Repositories</a></li>
+<li>Reading resumes are boring for interviewer</li>
+</ul>
+
+
+<p><strong>Learn the open source way</strong></p>
+
+<ul>
+<li>Create an account in any revision control system like <a href="http://github.com" title="Build software better, together.">Github</a>, <a href="https://code.google.com/projecthosting/" title="Google Project Hosting powers Project Hosting on Google Code and Eclipse Labs">Google Code</a>, <a href="http://sourceforge.net/" title="SourceForge - Download, Develop and Publish Free Open Source">Sourceforge</a> etc.</li>
+<li>Pick any open source project of your interest on the practical lab <a href="https://github.com/trending" title="Trending repositories on GitHub today">language</a></li>
+<li>Fork and start understanding the application and follow the development road map.</li>
+<li>Pick any module from road map or any task from the <a href="https://github.com/blog/831-issues-2-0-the-next-generation" title="Issues 2.0: The Next Generation">issue</a></li>
+<li>Code it yourself and give a <a href="https://help.github.com/articles/using-pull-requests" title="Using Pull Requests">pull</a> request</li>
+<li>If your code meets the coding standard, quality assurance and functionality then the lead developer will accept the pull request and your code will be added to the next release.</li>
+<li>Your name is also added to <a href="https://github.com/blog/643-contributors" title="Github Top contributers">contributes list</a> and you are solving a real time problem with your skill set</li>
+</ul>
+
+
+<p><strong>Advantages to student</strong></p>
+
+<ul>
+<li>Student name will be in credit list when the project is released</li>
+<li>Satisfaction in contributing to the open source community</li>
+<li>Social coding helps to stay connected and learn more</li>
+<li>He/she will be industry ready</li>
+<li>Up-to-date on technology standards</li>
+<li>Experience to work on enterprise application development</li>
+<li>Improve coding standard</li>
+<li>Understand the importance of testing and documentation</li>
+</ul>
+
+
+<p><strong>Advantages to instructor</strong></p>
+
+<ul>
+<li>Full code control on <a href="https://github.com/edu" title="Request an educational account">repositories</a></li>
+<li>No need to review the code as the code is already accepted by the industry experts.</li>
+<li>Instead of reading the same old age coding, it would be interesting to see your students solve the real time problem on a open source project</li>
+<li>No way for plagiarism</li>
+<li>You can be the leader who &ldquo;<a href="http://en.wiktionary.org/wiki/walk_the_talk" title="walk the talk">walk the talk</a>&rdquo;.</li>
+<li>Students will have more respect on seeing your code contribution to the community on open source projects</li>
+</ul>
+
+
+<p><strong>Change I wish to see by this method</strong></p>
+
+<ul>
+<li>Soon India will move from being a software service provider country to a quality software product development country</li>
+<li>Colleges to seed the courage to make every engineer student into an entrepreneur and start-up on their own.</li>
+</ul>
+
+
+<p>I wish today&rsquo;s schools and colleges adopt this type of <a href="https://www.google.co.in/search?q=define%3A+win-win">win-win</a> learning path. It&rsquo;s time for us to realize now a days knowledge is <em>Learning-by-doing</em>.</p>
+
+<p><em><strong>Note:</strong> I studied in an engineering college so wrote to my fellow juniors  knowing the process followed but the above could be applied to any degree.</em></p>
+
+<p>Do you wish feel this way of learning makes sense? Please let me know your <a href="#disqus_thread" title="Comments">comments</a> below.</p>
+]]></content>
+  </entry>
+  
+</feed>

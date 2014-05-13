@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Blogging | Mohankumar Swaminathan's personal blog]]></title>
+  <link href="http://blog.smartmohi.com/blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://blog.smartmohi.com/"/>
+  <updated>2014-05-13T23:46:39+05:30</updated>
+  <id>http://blog.smartmohi.com/</id>
+  <author>
+    <name><![CDATA[Mohankumar Swaminathan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Year's Resolution (2014)]]></title>
+    <link href="http://blog.smartmohi.com/2014/01/01/the-new-year-resolution-2014/"/>
+    <updated>2014-01-01T22:58:39+05:30</updated>
+    <id>http://blog.smartmohi.com/2014/01/01/the-new-year-resolution-2014</id>
+    <content type="html"><![CDATA[<h2>Wish you all a very happy new year 2014!</h2>
+
+<p>I had good fun being at MG road, Bangalore at mid night 00:00 with <a href="http://twitter.com/karthi_govind" title="Karthik Govindasamy">@karthi_govind</a> and Kadiyala Aditya.</p>
+
+<p><img src="http://farm5.staticflickr.com/4066/4233009698_e0331214e4_b.jpg" alt="Mohankumar S new year resolution 2014" />
+Image credit: <a href="http://www.flickr.com/photos/hujiie/4233009698" title="New year resolution">http://www.flickr.com/photos/hujiie/4233009698</a></p>
+
+<p>Fine lets come to the topic, as usual I did list down few of the habits and skills i would like to cultivate this year. After deep thoughts put in, I decided to start writing my personal blog this year.</p>
+
+<blockquote><p><strong>Mind voice</strong>: Okay man cool! but what&rsquo;s new?</p>
+
+<p><strong>Me</strong>: How could host a blog without paying to web server?</p>
+
+<p><strong>Mind voice</strong>: Come on man! you proclaim as the so called open source &ldquo;<a href="www.linkedin.com/in/smartmohi" title="Mohankumar S LinkedIn profile">solutions consultant</a>&rdquo;, solve this now!</p>
+
+<p><strong>Me</strong>: I had four options to choose Wordpress.com, Tumblr, Blogger or Github.</p></blockquote>
+
+<!-- more -->
+
+
+<ol>
+<li><p><strong><a href="http://wordpress.com" title="Free blogging platform">Wordpress</a></strong> : Nope!
+I did not like the way wordpress.com force display ads on our blog post when its a free package.</p></li>
+<li><p><strong><a href="http://www.tumblr.com" title="Follow the blogs you've been hearing about.">Tumblr</a></strong>: Nope again!
+Felt awesome for personal blogging but still was not happy as i would end up on a Yahoo product.</p></li>
+<li><p><strong><a href="http://www.blogger.com" title="Free weblog publishing tool from Google, for sharing text, photos and video">Blogger</a></strong>: Nope please!
+I do not want it to happen as Google Reader (My favorite RSS reader).</p></li>
+<li><p><strong><a href="http://github.com" title="Build software better, together.">Github</a></strong>: Yeah cool! Having prior experience in hosting <a href="http://www.smartmohi.com" title="Mohankumar Swaminathan personal website">my website</a> using Github Pages, felt okay let me give a try.</p></li>
+</ol>
+
+
+<p>Then found out <a href="http://jekyllrb.com/" title="Transform your plain text into static websites and blogs.">Jekyll</a> is the best static website generation for Github Pages.</p>
+
+<blockquote><p><strong>Mind voice</strong>: Hey hold on, its on <a href="https://www.ruby-lang.org/en/" title="Ruby Language">Ruby</a> man! Ha ha you never wrote a &ldquo;<a href="http://en.wikipedia.org/wiki/Hello_world_program" title="Hello world program">hello world</a>&rdquo; other than <a href="http://en.wikipedia.org/wiki/LAMP_software_bundle" title="Linux Apache MySQL PHP">LAMP</a> :D</p>
+
+<p><strong>Me</strong>: So what! let me give a try. I have <a href="https://twitter.com/kjaikeerthi" title="Jai Keerthi">@kjaikeerthi</a> who is an expert in <a href="http://rubyonrails.org/" title="Ruby on Rails">RoR</a>. He is just a dial away.</p></blockquote>
+
+<p>Some time back Vaibhav Rajput said on a facebook comment there exist a blogging framework for <a href="http://pages.github.com/" title="Websites for you and your projects.">Github Pages</a> called <a href="http://octopress.org/" title="Octopress">OctoPress</a></p>
+
+<p>Meanwhile I also recollected <a href="https://twitter.com/ArnDvd" title="Arun David">@ArnDvd</a> published his blog post in Github using Jekyll.</p>
+
+<p>Finally decided to go with Octopress as its a blogging framework for hackers and could be deployed on Github Pages for free.</p>
+
+<blockquote><p><strong>Mind voice</strong>: I don&rsquo;t know why you are writing so technical when you have <a href="http://www.tinywall.info" title="Tinywall Infomedia - Indian Technology Blog">Tinywall.info</a> and you said this is your personal blog.</p>
+
+<p><strong>Me</strong>: Oh yeah! let me not delete the above just go ahead writing <strong>why I choose blogging as new year resolution?</strong></p></blockquote>
+
+<p><strong>Basically for five reasons</strong></p>
+
+<ul>
+<li>Writing personal dairy are out dated; so practice personal blogging</li>
+<li>Improve my writing skills</li>
+<li>Open up, Express and exchange</li>
+<li>Add new technology (Ruby) to my skill set</li>
+<li>Test drive on SEO and SMO</li>
+<li>Increase page ranking for my website</li>
+</ul>
+
+
+<p>What do you feel about my this year resolution? please let me know below via <a href="#disqus_thread" title="Comments">comments</a>.</p>
+
+<p><em>Note: Github Pull request welcome!</em></p>
+]]></content>
+  </entry>
+  
+</feed>
