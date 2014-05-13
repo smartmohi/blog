@@ -19,7 +19,7 @@ One of the best practice which most of our education system doesn't teach us is 
 > **Me: ** I swear, I didn't yet. Used above banner as it match with my blog topic.
 
 Over the recent days, I come to a validated result that all our assumptions stop us from thinking beyond. We always underestimate most things saying "c'mon! I knew how this works, so this won't fit". This is a pure laziness to unlearn our assumption. 
-
+<!-- more -->
 People use to say that we are not using our brain to the extent we could. But the fact is we are unable to learn beyond certain point due to the assumptions that had created by the things we had learn so far. It's not just enough to keep us up-to date with all that we need to learn, it's equally important to unlearn certain things which are unnecessary.  
 
 > **Mind voice: ** Given me an example, let me see if unlearning is worth it.
@@ -29,7 +29,7 @@ People use to say that we are not using our brain to the extent we could. But th
 ## Why do I say unlearning is so important? ##
 
 From my previous experience, I strongly believe that change is the only thing which is constant in this super fast world. If you still keep remembering  unnecessary sad memories it would be your first enemy to pull your leg. Just unlearn your worries to start learn more on shaping your life much happier than before.  
-<!-- more -->
+
 You would have seen many of your friends changed after few years. Your distance increases and the wave length mismatch, finally you end up getting used to his/her new life. Knowingly or unknowingly we unlearn our previous assumptions on our friends and get ready to accept the change. This seems to be a default human behavior but the fact is when you realize that unlearning is much important to learn again, we take life easy. 
 
 > **Mind voice: ** Are you trying to say "just forget" the past?
